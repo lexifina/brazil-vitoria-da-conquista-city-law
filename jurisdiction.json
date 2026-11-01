@@ -1,0 +1,9 @@
+{
+  "path": "br-ba-vitoria-da-conquista",
+  "code": "BR-BA-VITORIA-DA-CONQUISTA",
+  "name": "Vitória da Conquista (city)",
+  "level": "municipality",
+  "parent": "br-ba",
+  "repo": "https://github.com/lexifina/brazil-vitoria-da-conquista-city-law",
+  "build": "built: the law of Vitória da Conquista from the Câmara Municipal's SAPL"
+}

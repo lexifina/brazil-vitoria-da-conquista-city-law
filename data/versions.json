@@ -1,0 +1,19 @@
+{
+ "country": "BR-BA-VITORIA-DA-CONQUISTA",
+ "acts": [
+  {
+   "slug": "lei-organica",
+   "short": "LOM-Vitória-da-Conquista",
+   "title": "Lei Orgânica do Município de Vitória da Conquista",
+   "url": "https://sapl.vitoriadaconquista.ba.leg.br/norma/4538",
+   "versions": [
+    {
+     "from": "2025-12-01",
+     "units": 358,
+     "source_url": "http://sapl.vitoriadaconquista.ba.leg.br/media/sapl/public/normajuridica/2025/4538/lei_organica_do_municipio_de_vitoria_da_conquita_no01_de_28_de_novembro_de_2025.pdf",
+     "sha256": "5dd41c9000673a446e5e6391ac9a5950118bf155b5126a286c05309b94340d83"
+    }
+   ]
+  }
+ ]
+}
