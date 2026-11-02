@@ -14,6 +14,62 @@
      "sha256": "5dd41c9000673a446e5e6391ac9a5950118bf155b5126a286c05309b94340d83"
     }
    ]
+  },
+  {
+   "slug": "lei-2026-03227",
+   "short": "Lei 3227/2026",
+   "title": "Lei nº 3.227, de 2 de outubro de 2026",
+   "url": "https://sapl.vitoriadaconquista.ba.leg.br/norma/4684",
+   "versions": [
+    {
+     "from": "2026-10-02",
+     "units": 3,
+     "source_url": "https://sapl.vitoriadaconquista.ba.leg.br/media/sapl/public/normajuridica/2026/4684/lei_no_3.227-2026_1.pdf",
+     "sha256": "4e74cdb8a2a1147812f3befd6969795566eeb5554f764e451f068bab11ec1d11"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03214",
+   "short": "Lei 3214/2026",
+   "title": "Lei nº 3.214, de 22 de setembro de 2026",
+   "url": "https://sapl.vitoriadaconquista.ba.leg.br/norma/4671",
+   "versions": [
+    {
+     "from": "2026-09-23",
+     "units": 3,
+     "source_url": "https://sapl.vitoriadaconquista.ba.leg.br/media/sapl/public/normajuridica/2026/4671/lei_no_3.214-2026_1.pdf",
+     "sha256": "bb8cfd5661a934432c90c831f311dd737548a790b9ded6f4e48340b472cada4c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03194",
+   "short": "Lei 3194/2026",
+   "title": "Lei nº 3.194, de 14 de setembro de 2026",
+   "url": "https://sapl.vitoriadaconquista.ba.leg.br/norma/4651",
+   "versions": [
+    {
+     "from": "2026-09-14",
+     "units": 7,
+     "source_url": "https://sapl.vitoriadaconquista.ba.leg.br/media/sapl/public/normajuridica/2026/4651/lei_no_3.194-2026_1.pdf",
+     "sha256": "c1be8b987f181f6ff8bfd8a67f179c9796f85630380db6f1e857ecd45cc3230a"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2026-03191",
+   "short": "Lei 3191/2026",
+   "title": "Lei nº 3.191, de 3 de setembro de 2026",
+   "url": "https://sapl.vitoriadaconquista.ba.leg.br/norma/4648",
+   "versions": [
+    {
+     "from": "2026-09-03",
+     "units": 3,
+     "source_url": "https://sapl.vitoriadaconquista.ba.leg.br/media/sapl/public/normajuridica/2026/4648/lei_no_3.191-2026_1.pdf",
+     "sha256": "1a438705edd6aa44c3257ee4ac4da66f9ebe32bfcbd134336c0b2f1499a41a20"
+    }
+   ]
   }
  ]
 }
