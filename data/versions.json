@@ -212,6 +212,132 @@
    ]
   },
   {
+   "slug": "lei-2022-02695",
+   "short": "Lei 2695/2022",
+   "title": "Lei nº 2.695, de 14 de outubro de 2022",
+   "url": "https://sapl.vitoriadaconquista.ba.leg.br/norma/3970",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 5,
+     "source_url": "https://sapl.vitoriadaconquista.ba.leg.br/media/sapl/public/normajuridica/2022/3970/lei_no_2.695_-_institui_no_ambito_do_municipio_de_vitoria_da_conquista_a_semana_da_conferencia_e_conscientizacao_missionaria_assinado.pdf",
+     "sha256": "c34c7077e3609cbd0ad9527048adb172dfd736964ec67bac14fae04c75cb51cd"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02694",
+   "short": "Lei 2694/2022",
+   "title": "Lei nº 2.694, de 14 de outubro de 2022",
+   "url": "https://sapl.vitoriadaconquista.ba.leg.br/norma/3971",
+   "versions": [
+    {
+     "from": "2022-10-14",
+     "units": 3,
+     "source_url": "https://sapl.vitoriadaconquista.ba.leg.br/media/sapl/public/normajuridica/2022/3971/lei_no_2.694-2022_-_denomina_de_praca_sao_roque_a_praca_localizada_nas_malvinas_no_povoado_de_sao_sebastiao_assinado.pdf",
+     "sha256": "3f9311f15b47617fc397ac6a89f2e5316d4d40746bb51932e8e749f2c336dc02"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02681",
+   "short": "Lei 2681/2022",
+   "title": "Lei nº 2.681, de 29 de setembro de 2022",
+   "url": "https://sapl.vitoriadaconquista.ba.leg.br/norma/3915",
+   "versions": [
+    {
+     "from": "2022-09-29",
+     "units": 4,
+     "source_url": "https://sapl.vitoriadaconquista.ba.leg.br/media/sapl/public/normajuridica/2022/3915/lei_no_2.681_institui_no_calendario_oficial_do.pdf",
+     "sha256": "86c553e8787da54b74166af745e849d52e08f4cf1969c9e75a6fe15b4c1ac408"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02676",
+   "short": "Lei 2676/2022",
+   "title": "Lei nº 2.676, de 29 de agosto de 2022",
+   "url": "https://sapl.vitoriadaconquista.ba.leg.br/norma/3905",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 5,
+     "source_url": "https://sapl.vitoriadaconquista.ba.leg.br/media/sapl/public/normajuridica/2022/3905/lei_no_2.676-2022-pl_no_54_legislativo_institui_e_inclui_no_calendario_semana_municipal_do_macom.pdf",
+     "sha256": "6526c9a69aaeb794e060297dd8c19e12748823e04af177e716be9c0549c4959c"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02674",
+   "short": "Lei 2674/2022",
+   "title": "Lei nº 2.674, de 29 de agosto de 2022",
+   "url": "https://sapl.vitoriadaconquista.ba.leg.br/norma/3903",
+   "versions": [
+    {
+     "from": "2022-08-30",
+     "units": 3,
+     "source_url": "https://sapl.vitoriadaconquista.ba.leg.br/media/sapl/public/normajuridica/2022/3903/lei_no_2.674-2022-pl_no_revoga_a_lei_municipal_no_2.521_comtur.pdf",
+     "sha256": "599e68fe0913afb59b6b6f3d2dd1cb1db0fdaa40d6966b5fac94acc43caf4aff"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02669",
+   "short": "Lei 2669/2022",
+   "title": "Lei nº 2.669, de 29 de agosto de 2022",
+   "url": "https://sapl.vitoriadaconquista.ba.leg.br/norma/3899",
+   "versions": [
+    {
+     "from": "2022-08-29",
+     "units": 4,
+     "source_url": "https://sapl.vitoriadaconquista.ba.leg.br/media/sapl/public/normajuridica/2022/3899/lei_no_2.669-2022-altera_o_artigo_55_inciso_ii_da_lei_municipal_no_695-1993.pdf",
+     "sha256": "b41642154b33dcd7e8da715914e510716edfc2b22083e14a237fa83e4d2d5754"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02668",
+   "short": "Lei 2668/2022",
+   "title": "Lei nº 2.668, de 29 de agosto de 2022",
+   "url": "https://sapl.vitoriadaconquista.ba.leg.br/norma/3898",
+   "versions": [
+    {
+     "from": "2022-08-29",
+     "units": 4,
+     "source_url": "https://sapl.vitoriadaconquista.ba.leg.br/media/sapl/public/normajuridica/2022/3898/lei_no_2.668-2022-institui_o_dia_e_programa_de_prevencao_a_saude_dos_caminhoneiros..pdf",
+     "sha256": "474b9a2d8c23453e0f94cd6a9ead7a51d5a2b31274167fbe21507f257630b37d"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02667",
+   "short": "Lei 2667/2022",
+   "title": "Lei nº 2.667, de 29 de agosto de 2022",
+   "url": "https://sapl.vitoriadaconquista.ba.leg.br/norma/3897",
+   "versions": [
+    {
+     "from": "2022-08-29",
+     "units": 3,
+     "source_url": "https://sapl.vitoriadaconquista.ba.leg.br/media/sapl/public/normajuridica/2022/3897/lei_no_2.667-2022-altera_o_artigo_1o_da_lei_no_1.425-2007_praca_iracy_alves_gobira.pdf",
+     "sha256": "7b42c2d27d1797a008205938f9fe448ad81b35caf03522caf7c1781dd73efade"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02664",
+   "short": "Lei 2664/2022",
+   "title": "Lei nº 2.664, de 29 de agosto de 2022",
+   "url": "https://sapl.vitoriadaconquista.ba.leg.br/norma/3894",
+   "versions": [
+    {
+     "from": "2022-08-29",
+     "units": 3,
+     "source_url": "https://sapl.vitoriadaconquista.ba.leg.br/media/sapl/public/normajuridica/2022/3894/lei_no_2.664-2022-_altera_o_artigo_da_lei_no_2.623_proibicao_do_uso_de_pipas.pdf",
+     "sha256": "abe24395aec51bdcc5c60933654e242813ae07f36e2211a5dcce36d6f8691bf7"
+    }
+   ]
+  },
+  {
    "slug": "lei-2026-03227",
    "short": "Lei 3227/2026",
    "title": "Lei nº 3.227, de 2 de outubro de 2026",

@@ -1,0 +1,9 @@
+# Lei nº 2.667, de 29 de agosto de 2022
+
+Lei 2667/2022 · 1 versions, from 2022-08-29 (latest in force: 2022-08-29) · <https://sapl.vitoriadaconquista.ba.leg.br/norma/3897>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Título | [000-titulo.md](000-titulo.md) | 0 |  |
+| Art. 1º | [art-0001.md](art-0001.md) | 0 |  |
+| Art. 2º | [art-0002.md](art-0002.md) | 0 |  |
