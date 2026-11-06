@@ -16,6 +16,202 @@
    ]
   },
   {
+   "slug": "lei-2023-02724",
+   "short": "Lei 2724/2023",
+   "title": "Lei nº 2.724, de 27 de fevereiro de 2023",
+   "url": "https://sapl.vitoriadaconquista.ba.leg.br/norma/4003",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 3,
+     "source_url": "https://sapl.vitoriadaconquista.ba.leg.br/media/sapl/public/normajuridica/2023/4003/a_lei_no_2.724-2023_-_denomina_de_rua_anisio_silva_menezes_a_atual_rua_a_na_vila_ana_matia_bairro_boa_vista_nesta_cidade.pdf",
+     "sha256": "e0aa204c39f459cbe381d8b33f1c80c73878a4541abafd38f7b423cb3a276fcf"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-02723",
+   "short": "Lei 2723/2023",
+   "title": "Lei nº 2.723, de 27 de fevereiro de 2023",
+   "url": "https://sapl.vitoriadaconquista.ba.leg.br/norma/4002",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 3,
+     "source_url": "https://sapl.vitoriadaconquista.ba.leg.br/media/sapl/public/normajuridica/2023/4002/a_lei_no_2.723-2023_-_denomina_de_avenida_maria_silva_sousa_dos_santos_a_atual_rua_via_local_k_na_urbis_v.pdf",
+     "sha256": "6d6425eb5739d2ea3740da4ef9ea67449f9b976bfde56c8553b34037ffdf5a43"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-02722",
+   "short": "Lei 2722/2023",
+   "title": "Lei nº 2.722, de 27 de fevereiro de 2023",
+   "url": "https://sapl.vitoriadaconquista.ba.leg.br/norma/4001",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 4,
+     "source_url": "https://sapl.vitoriadaconquista.ba.leg.br/media/sapl/public/normajuridica/2023/4001/a_lei_no_2.722-23_-_institui_no_calendario_oficial_do_municipio_de_vitoria_da_conquista_a_semana_municipal_do_imigrante.pdf",
+     "sha256": "51f1ff1b0571a9ba8b48afbe6ef269121c078f8b1f2419d697d1e74f1454d841"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2023-02721",
+   "short": "Lei 2721/2023",
+   "title": "Lei nº 2.721, de 27 de fevereiro de 2023",
+   "url": "https://sapl.vitoriadaconquista.ba.leg.br/norma/4000",
+   "versions": [
+    {
+     "from": "2023-02-27",
+     "units": 4,
+     "source_url": "https://sapl.vitoriadaconquista.ba.leg.br/media/sapl/public/normajuridica/2023/4000/a_lei_no_2.721-2023_-_denomina_rua_gerson_prado_a_atual_rua_do_sitio_alegria_no_bairro_lagoa_das_flores..pdf",
+     "sha256": "a0b976f4fe6ffa827a9b95df7aa20b467889d59aaa8cdce1eaee8d1a04f91180"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02714",
+   "short": "Lei 2714/2022",
+   "title": "Lei nº 2.714, de 27 de dezembro de 2022",
+   "url": "https://sapl.vitoriadaconquista.ba.leg.br/norma/3991",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 4,
+     "source_url": "https://sapl.vitoriadaconquista.ba.leg.br/media/sapl/public/normajuridica/2022/3991/a_lei_no_2.714-22-denomina_avenida_professor_paulo_ludovico_a_atual_rua_n__morada_dos_passaros_iii_-_bairro_felicia..pdf",
+     "sha256": "6e2b6667e82cac75c8704cd732f6256b9ea95e5703a8f7545dc67e2a836f0087"
+    }
+   ]
+  },
+  {
+   "slug": "lc-2022-02713",
+   "short": "LC 2713/2022",
+   "title": "Lei Complementar nº 2.713, de 27 de dezembro de 2022",
+   "url": "https://sapl.vitoriadaconquista.ba.leg.br/norma/3990",
+   "versions": [
+    {
+     "from": "2022-12-27",
+     "units": 4,
+     "source_url": "https://sapl.vitoriadaconquista.ba.leg.br/media/sapl/public/normajuridica/2022/3990/a_lei_complementar_n_2.713-2022_-_altera_dispositivos_da_lei_complementar_no_2.645.pdf",
+     "sha256": "a9839b226662127991c5830137354f94806ddadcfeeb37e08dd06ce22078f8e1"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02712",
+   "short": "Lei 2712/2022",
+   "title": "Lei nº 2.712, de 21 de dezembro de 2022",
+   "url": "https://sapl.vitoriadaconquista.ba.leg.br/norma/3989",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 3,
+     "source_url": "https://sapl.vitoriadaconquista.ba.leg.br/media/sapl/public/normajuridica/2022/3989/a_lei_no_2.712_-_institui_o_dia_municipal_de_conscientizacao_sobre_a_fissura_labiopalatina..pdf",
+     "sha256": "2ca70ca30b9589284397b04abb58c2173ed792f111c83bcbe12f30923467f51f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02711",
+   "short": "Lei 2711/2022",
+   "title": "Lei nº 2.711, de 21 de dezembro de 2022",
+   "url": "https://sapl.vitoriadaconquista.ba.leg.br/norma/3988",
+   "versions": [
+    {
+     "from": "2022-12-22",
+     "units": 3,
+     "source_url": "https://sapl.vitoriadaconquista.ba.leg.br/media/sapl/public/normajuridica/2022/3988/a_lei_no_2.711_-_altera_o_inciso_iii_do_artigo_2o_da_lei_no_2.359_de_25_de_novembro_de_2019_1.pdf",
+     "sha256": "427a7c1bdb8557f8519bb1e783f9eb455bacd5fe0b8b06d29c6abd3c1b236d61"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02710",
+   "short": "Lei 2710/2022",
+   "title": "Lei nº 2.710, de 5 de dezembro de 2022",
+   "url": "https://sapl.vitoriadaconquista.ba.leg.br/norma/3984",
+   "versions": [
+    {
+     "from": "2022-12-06",
+     "units": 6,
+     "source_url": "https://sapl.vitoriadaconquista.ba.leg.br/media/sapl/public/normajuridica/2022/3984/lei_no_2.710_-_2022_-_institui_a_campanha_energia_limpa_de_incentivo_a_utilizacao_de_energia_solar_no_ambito_municipal_1.pdf",
+     "sha256": "c30bf687f661797db53f1e9a15cb3c3a6162e34ae0a15728b9b3c2d3ce9d9e2f"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02707",
+   "short": "Lei 2707/2022",
+   "title": "Lei nº 2.707, de 21 de novembro de 2022",
+   "url": "https://sapl.vitoriadaconquista.ba.leg.br/norma/3981",
+   "versions": [
+    {
+     "from": "2022-11-23",
+     "units": 7,
+     "source_url": "https://sapl.vitoriadaconquista.ba.leg.br/media/sapl/public/normajuridica/2022/3981/lei_no_2.707_-_2022_-_semana_municipal_do_antigomobilismo_assinado.pdf",
+     "sha256": "c41bb5fbec99f411a8aa0f01f2ad0a1d1c5889bf45bc909c20e88a4b2a21d801"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02706",
+   "short": "Lei 2706/2022",
+   "title": "Lei nº 2.706, de 21 de novembro de 2022",
+   "url": "https://sapl.vitoriadaconquista.ba.leg.br/norma/3980",
+   "versions": [
+    {
+     "from": "2022-11-23",
+     "units": 5,
+     "source_url": "https://sapl.vitoriadaconquista.ba.leg.br/media/sapl/public/normajuridica/2022/3980/lei_no_2.706_-_2022_-_semana_municipal_da_inovacao_de_vitoria_da_conquista_assinado.pdf",
+     "sha256": "20e6b84942dd82ad6e4eab90cc5d575879a083474d37c2219868f6679ce227e3"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02704",
+   "short": "Lei 2704/2022",
+   "title": "Lei nº 2.704, de 21 de novembro de 2022",
+   "url": "https://sapl.vitoriadaconquista.ba.leg.br/norma/3978",
+   "versions": [
+    {
+     "from": "2022-11-23",
+     "units": 6,
+     "source_url": "https://sapl.vitoriadaconquista.ba.leg.br/media/sapl/public/normajuridica/2022/3978/lei_no_2.704_-_2022_-_altera_dispositivos_da_lei_municipal_no_2.197_de_24_de_novembro_de_2017_assinado.pdf",
+     "sha256": "5b687f6e295e102e8a0643465088e0fb2f8ac5db2cf1a7379c8e7ee99d263e2e"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02703",
+   "short": "Lei 2703/2022",
+   "title": "Lei nº 2.703, de 21 de novembro de 2022",
+   "url": "https://sapl.vitoriadaconquista.ba.leg.br/norma/3977",
+   "versions": [
+    {
+     "from": "2022-11-23",
+     "units": 6,
+     "source_url": "https://sapl.vitoriadaconquista.ba.leg.br/media/sapl/public/normajuridica/2022/3977/lei_no_2.703_-_2022_-_altera_dispositivos_da_lei_municipal_no_2.151_de_10_de_julho_de_2017_assinado.pdf",
+     "sha256": "c3d395de15320e25642d5d7bd9c8a32ab892f55ff6927837b46f99f7ac1f1d0b"
+    }
+   ]
+  },
+  {
+   "slug": "lei-2022-02698",
+   "short": "Lei 2698/2022",
+   "title": "Lei nº 2.698, de 21 de outubro de 2022",
+   "url": "https://sapl.vitoriadaconquista.ba.leg.br/norma/3957",
+   "versions": [
+    {
+     "from": "2022-10-21",
+     "units": 3,
+     "source_url": "https://sapl.vitoriadaconquista.ba.leg.br/media/sapl/public/normajuridica/2022/3957/lei_2.698_-_2022_-_institui_no_calendario_oficial_do_municipio_de_vitoria_da_conquista_a_semana_da_caatinga.pdf",
+     "sha256": "2e492c9c569d477df0aaa14a2638d2d3c6f82aaa37e423bbbca43afbbc6e76d0"
+    }
+   ]
+  },
+  {
    "slug": "lei-2026-03227",
    "short": "Lei 3227/2026",
    "title": "Lei nº 3.227, de 2 de outubro de 2026",
